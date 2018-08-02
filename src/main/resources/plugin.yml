@@ -1,0 +1,6 @@
+name: DiscordFtop
+version: 1.0-SNAPSHOT
+main: me.xpenguinx.discordftop.DiscordFtop
+author: xPenguinx
+description: Minecraft to discord hook
+
